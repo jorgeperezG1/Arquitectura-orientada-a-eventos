@@ -1,0 +1,20 @@
+[
+    {
+        "evento": "venta_realizada",
+        "datos": {
+            "cliente": "luis perez",
+            "producto": "refresco",
+            "cantidad": "5",
+            "fecha": "2024-10-14 23:02:27"
+        }
+    },
+    {
+        "evento": "venta_realizada",
+        "datos": {
+            "cliente": "paula cristel",
+            "producto": "jabon",
+            "cantidad": "2000",
+            "fecha": "2024-10-14 23:07:55"
+        }
+    }
+]
